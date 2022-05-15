@@ -2,7 +2,7 @@
 
 What this project do?
 <br>
-Just basic add and delete feature with typescript.
+Just simple note app. Basic add and delete features with typescript.
 
 What i learned?
 <br>
